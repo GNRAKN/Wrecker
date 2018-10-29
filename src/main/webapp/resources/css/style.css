@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+<
+style>body {
+	position: relative;
+}
+
+#servisKayit {
+	padding-top: 50px;
+	height: 500px;
+	color: #fff;
+	background-color: #1E88E5;
+}
+
+#musteriListele {
+	padding-top: 50px;
+	height: 500px;
+	color: #fff;
+	background-color: #00bcd4;
+}
+
+#urunListele {
+	padding-top: 50px;
+	height: 500px;
+	color: #fff;
+	background-color: #4f91d2;
+}
+
+#isListele {
+	padding-top: 50px;
+	height: 500px;
+	color: #fff;
+	background-color: #673ab7;
+}
+</
+style
+>
